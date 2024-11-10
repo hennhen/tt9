@@ -9,12 +9,17 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
+Guess a pin that lights the LED
+
 Explain how your project works
 
 ## How to test
+
+Pick a pin and see if it lights up.
 
 Explain how to use your project
 
 ## External hardware
 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
